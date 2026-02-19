@@ -168,6 +168,7 @@ Site administration > Courses > Manage courses and categories
 ```
  # บันทึกรูปหน้า Category
 ```
+<img width="1919" height="852" alt="image" src="https://github.com/user-attachments/assets/5ea7f5be-e3a5-430f-8828-a23e801a13ff" />
 
 ### 3: สร้างและจัดการ Cohorts 
 **3.1 สร้างไฟล์ `cohorts.csv`:** ที่มีรายละเอียดด้านล่าง (สำหรับระดับมัธยมศึกษา) โดยเลือกเข้ารหัสเป็น UTF-8
@@ -322,6 +323,14 @@ CSV settings:
 ```
  # บันทึกรูปหน้า Cohorts
 ```
+<img width="1919" height="849" alt="image" src="https://github.com/user-attachments/assets/63d274e3-e97a-4d93-a678-f94bc2d15b30" />
+
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/7053c331-dc01-4c18-9a77-823fb00ee5c4" />
+
+<img width="1916" height="725" alt="image" src="https://github.com/user-attachments/assets/04ba0ccc-7699-4eca-a027-dd0a80100b76" />
+
+<img width="1919" height="763" alt="image" src="https://github.com/user-attachments/assets/235e75ef-3e80-4330-bf00-3521cd91bf27" />
+
 
 ### 4: Bulk User Upload
 
@@ -382,6 +391,9 @@ Data settings:
 ```
  # บันทึกรูปหน้า Users
 ```
+<img width="1916" height="867" alt="image" src="https://github.com/user-attachments/assets/4a93dfdc-626f-490b-abcb-68fde0155d00" />
+
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/6ee0f153-48da-4f73-9998-dd4d9da415a3" />
 
 **Upload Users (Teacher):**
 ทำการ Upload Users ที่เป็น Teaher โดยใช้ไฟล์ teachers_sample.csv
@@ -390,6 +402,8 @@ Data settings:
 ```
  # บันทึกรูปหน้า Users
 ```
+<img width="1914" height="881" alt="image" src="https://github.com/user-attachments/assets/45d2880a-fe43-49bc-b726-fef4ec0f7a65" />
+
 ---
 
 ## 3. Upload Courses 
